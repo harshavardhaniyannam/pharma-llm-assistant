@@ -1,0 +1,18 @@
+id,question,expected_drug,expected_section,must_contain,must_not_contain,category
+1,What are the contraindications of metformin?,metformin,contraindications,renal|acidosis,,contraindications
+2,What is the boxed warning for warfarin?,warfarin,boxed_warning,bleeding,,safety
+3,What drugs interact with itraconazole?,itraconazole,interactions,cyp3a4,,interactions
+4,What are common side effects of atorvastatin?,atorvastatin,adverse_reactions,arthralgia|diarrhea,,adverse_effects
+5,Is levothyroxine used for weight loss?,levothyroxine,boxed_warning,obesity|weight,,safety
+6,Can pregnant women take metoprolol?,metoprolol,special_populations,pregnan,,special_populations
+7,How does amlodipine work?,amlodipine,mechanism,calcium,,mechanism
+8,What is the boxed warning for alprazolam?,alprazolam,boxed_warning,opioid,,safety
+9,Does escitalopram have a boxed warning?,escitalopram,boxed_warning,suicid,,safety
+10,What is the boxed warning for propylthiouracil?,propylthiouracil,boxed_warning,liver,,safety
+11,What is the molecular weight of metformin?,metformin,chemistry,129,,chemistry
+12,Tell me the history of aspirin,aspirin,history,bayer,,history
+13,Which reactions are most reported for atorvastatin?,atorvastatin,faers,,,faers
+14,Is Glycomet the same as metformin?,metformin,,,,brand_lookup
+15,Is carbimazole the same as methimazole?,methimazole,identifiers,carbimazole,,india_vs_us
+16,What is clonazepam used for?,clonazepam,indications,,,look_alike
+17,What is the usual dose of lisinopril?,NONE,,,,out_of_scope
