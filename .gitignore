@@ -1,0 +1,9 @@
+.env
+__pycache__/
+data/raw/
+data/extra/
+data/records/
+data/chroma/
+data/profiles/
+eval/results.csv
+.venv/

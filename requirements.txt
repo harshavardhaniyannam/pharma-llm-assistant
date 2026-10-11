@@ -1,0 +1,5 @@
+requests>=2.31
+chromadb>=0.5
+sentence-transformers>=3.0
+streamlit>=1.36
+anthropic>=0.40
